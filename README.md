@@ -7,3 +7,4 @@
 * [Mac 配置nginx.conf](https://github.com/yu-style666/Blog/issues/3)
 * [create-react-app 修改默认端口（3000）](https://github.com/yu-style666/Blog/issues/4)
 * [Mac 中git命令自动补全](https://github.com/yu-style666/Blog/issues/5)
+* [git 基本操作](https://github.com/yu-style666/Blog/issues/6)
