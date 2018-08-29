@@ -12,5 +12,5 @@
 * [es6的一点点东西](https://github.com/yu-style666/Blog/issues/8)
 * [moment.js 快捷时间](https://github.com/yu-style666/Blog/issues/9)
 * [Eslint 规则说明](https://github.com/yu-style666/Blog/issues/10)
-* [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/11)
+* [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
 
