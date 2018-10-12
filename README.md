@@ -13,4 +13,5 @@
 * [moment.js 快捷时间](https://github.com/yu-style666/Blog/issues/9)
 * [Eslint 规则说明](https://github.com/yu-style666/Blog/issues/10)
 * [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
+* [RN项目初始化](https://github.com/yu-style666/Blog/issues/13)
 
