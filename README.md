@@ -30,6 +30,7 @@
 * [git 基本操作](https://github.com/yu-style666/Blog/issues/6)
 * [Mac 中git命令自动补全](https://github.com/yu-style666/Blog/issues/5)
 * [Mac 配置nginx.conf](https://github.com/yu-style666/Blog/issues/3)
+* [Mac OS系统 修改Hosts文件的方法](https://github.com/yu-style666/Blog/issues/21)
 
 
 
