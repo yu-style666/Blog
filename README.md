@@ -1,13 +1,10 @@
 
 ## Introduction
 
-> 以后这就是我的博客，记录自己的学习笔记，用于技术沉淀。
+> 博客，记录自己的学习笔记，用于技术沉淀。
 
-### web
+## web
 
-* [react 生命周期](https://github.com/yu-style666/Blog/issues/20)
-* [create-react-app 修改默认端口（3000）](https://github.com/yu-style666/Blog/issues/4)
-* [React 入门实例教程](https://github.com/yu-style666/Blog/issues/2)
 * [前端 json 数据 导出 excel 表格](https://github.com/yu-style666/Blog/issues/18)
 * [js 获取当前 ip](https://github.com/yu-style666/Blog/issues/17)
 * [前端接入微信公众号](https://github.com/yu-style666/Blog/issues/16)
@@ -17,12 +14,30 @@
 * [对象中 忽略属性值为空的属性](https://github.com/yu-style666/Blog/issues/7)
 * [双向数据绑定](https://github.com/yu-style666/Blog/issues/1)
 
-### npm
+
+
+## react
+
+* [react 生命周期](https://github.com/yu-style666/Blog/issues/20)
+* [create-react-app 修改默认端口（3000）](https://github.com/yu-style666/Blog/issues/4)
+* [React 入门实例教程](https://github.com/yu-style666/Blog/issues/2)
+
+
+
+## redux
+
+* [redux 由浅入深](https://github.com/yu-style666/Blog/issues/23)
+
+
+
+## npm
 
 * [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
 * [moment.js 快捷时间](https://github.com/yu-style666/Blog/issues/9)
 
-### others
+
+
+## others
 
 * [vConsole 移动端调试](https://github.com/yu-style666/Blog/issues/15)
 * [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
@@ -33,4 +48,6 @@
 * [Mac OS 系统 修改 Hosts 文件的方法](https://github.com/yu-style666/Blog/issues/21)
 
 
-<br/>
+
+
+
