@@ -43,6 +43,7 @@
 * [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
 * [Eslint 规则说明](https://github.com/yu-style666/Blog/issues/10)
 * [git 基本操作](https://github.com/yu-style666/Blog/issues/6)
+* [git 根据版本号导出改动的文件（保留文件结构）](https://github.com/yu-style666/Blog/issues/24)
 * [Mac 中 git 命令自动补全](https://github.com/yu-style666/Blog/issues/5)
 * [Mac 配置 nginx.conf](https://github.com/yu-style666/Blog/issues/3)
 * [Mac OS 系统 修改 Hosts 文件的方法](https://github.com/yu-style666/Blog/issues/21)
