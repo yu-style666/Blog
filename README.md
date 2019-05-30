@@ -39,6 +39,7 @@
 
 ## others
 
+* [npm 切换镜像](https://github.com/yu-style666/Blog/issues/27)
 * [简单三步同步你的 VSCode 用户配置](https://github.com/yu-style666/Blog/issues/26)
 * [vConsole 移动端调试](https://github.com/yu-style666/Blog/issues/15)
 * [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
