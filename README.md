@@ -1,7 +1,7 @@
 
 ## Introduction
 
-> 博客，记录自己的学习笔记，用于技术沉淀。
+> 博客，记录学习笔记，用于技术沉淀。
 
 ## web
 
@@ -39,6 +39,7 @@
 
 ## others
 
+* [简单三步同步你的 VSCode 用户配置](https://github.com/yu-style666/Blog/issues/26)
 * [vConsole 移动端调试](https://github.com/yu-style666/Blog/issues/15)
 * [vscode 配置项目使用 ESLint](https://github.com/yu-style666/Blog/issues/12)
 * [Eslint 规则说明](https://github.com/yu-style666/Blog/issues/10)
