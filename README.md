@@ -33,7 +33,7 @@
 ## npm
 
 * [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
-* [moment.js 快捷时间](https://github.com/yu-style666/Blog/issues/9)
+* [moment.js 快捷方法](https://github.com/yu-style666/Blog/issues/9)
 
 
 
