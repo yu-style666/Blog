@@ -30,7 +30,7 @@
 
 
 
-## npm
+## npm 包
 
 * [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
 * [moment.js 快捷方法](https://github.com/yu-style666/Blog/issues/9)
@@ -55,10 +55,7 @@
 * [Mac 批量更改文件后缀两种方法](https://github.com/yu-style666/Blog/issues/28)
 * [抓包神器之Charles](https://github.com/yu-style666/Blog/issues/29)
 * [Mac 切换 bash、zsh 等 shell](https://github.com/yu-style666/Blog/issues/32)
-
-
-
-
-
+* [npm、yarn](https://github.com/yu-style666/Blog/issues/33)
+* [n（管理 Node 版本）](https://github.com/yu-style666/Blog/issues/34)
 
 
