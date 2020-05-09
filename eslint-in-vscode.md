@@ -4,7 +4,7 @@
 
 > <https://github.com/Microsoft/vscode-eslint>
 
-#### 2. 安装 `eslint` 相关依赖（版本仅做参照）
+#### 2. 项目安装 `eslint` 相关 `npm` 包（版本仅做参照）
 
 ```json
 "babel-eslint": "^10.0.1",
@@ -100,4 +100,4 @@ module.exports = {
 };
 ```
 
-tip：若不生效，尝试重启 `vscode` 开始食用。
+tip：若不生效，尝试重启 `vscode` 再食用。
