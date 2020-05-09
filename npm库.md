@@ -1,5 +1,7 @@
 ## NPM 库
 
+> 持续更新中...
+
 | id  |                                 name                                 | desc                                                    |
 | :-: | :------------------------------------------------------------------: | :------------------------------------------------------ |
 |  1  |               [chalk](https://github.com/chalk/chalk)                | 优雅地输出带颜色的文本                                  |
@@ -40,5 +42,10 @@
 | 36  |        [csv-parser](https://github.com/mafintosh/csv-parser)         | 解析导入的 csv 文件                                     |
 | 37  |   [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)    | 解析 XML 格式数据                                       |
 | 38  |              [sax-js](https://github.com/isaacs/sax-js)              | 按流解析 XML                                            |
-| 39  |                                                                      |                                                         |
-| 40  |                                                                      |                                                         |
+| 39  |              [mocha](https://github.com/mochajs/mocha)               | 运行在 `node.js`上的 `JavaScript` 的测试框架            |
+| 40  |                  [ejs](https://github.com/mde/ejs)                   | 嵌入式 `JavaScript` 模板                                |
+| 41  |              [busboy](https://github.com/mscdex/busboy)              | 用于`node.js` 的 HTML 表单数据的流解析器                |
+| 42  |                                                                      |                                                         |
+| 43  |                                                                      |                                                         |
+| 44  |                                                                      |                                                         |
+| 45  |                                                                      |                                                         |
