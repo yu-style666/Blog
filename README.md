@@ -27,7 +27,7 @@
 
 - [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
 - [moment.js 快捷方法](https://github.com/yu-style666/Blog/issues/9)
-- [npm 库](https://github.com/yu-style666/Blog/blob/master/npm%E5%BA%93.md)
+- [npm package list](https://github.com/yu-style666/Blog/blob/master/npm-package-list.md)
 
 ## others
 
