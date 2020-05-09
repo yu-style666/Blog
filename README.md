@@ -27,7 +27,7 @@
 
 - [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
 - [moment.js 快捷方法](https://github.com/yu-style666/Blog/issues/9)
-- [npm package list](https://github.com/yu-style666/Blog/blob/master/npm-package-list.md)
+- [好用的 npm 库](https://github.com/yu-style666/Blog/blob/master/npm-packages.md)
 
 ## others
 
@@ -49,3 +49,4 @@
 - [Mac 切换 bash、zsh 等 shell](https://github.com/yu-style666/Blog/issues/32)
 - [npm、yarn](https://github.com/yu-style666/Blog/issues/33)
 - [n（管理 Node 版本）](https://github.com/yu-style666/Blog/issues/34)
+- [在 vscode 中使用 eslint](https://github.com/yu-style666/Blog/blob/master/eslint-in-vscode.md)
