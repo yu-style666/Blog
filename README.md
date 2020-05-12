@@ -1,4 +1,13 @@
-## Introduction
+# Blog
+
+- [introduction](#introduction)
+- [web](#web)
+- [react](#react)
+- [redux](#redux)
+- [npm-packages](#npm-packages)
+- [others](#others)
+
+## introduction
 
 > 博客，记录学习笔记，用于技术沉淀。
 
@@ -23,7 +32,7 @@
 
 - [redux 由浅入深](https://github.com/yu-style666/Blog/issues/23)
 
-## npm 包
+## npm-packages
 
 - [Rematch 入门](https://github.com/yu-style666/Blog/issues/19)
 - [moment.js 快捷方法](https://github.com/yu-style666/Blog/issues/9)
