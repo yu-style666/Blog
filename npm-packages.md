@@ -45,7 +45,7 @@
 | 39  |              [mocha](https://github.com/mochajs/mocha)               | 运行在 `node.js`上的 `JavaScript` 的测试框架            |
 | 40  |                  [ejs](https://github.com/mde/ejs)                   | 嵌入式 `JavaScript` 模板                                |
 | 41  |              [busboy](https://github.com/mscdex/busboy)              | 用于`node.js` 的 HTML 表单数据的流解析器                |
-| 42  |                                                                      |                                                         |
+| 42  |      [node-notifier](https://github.com/mikaelbr/node-notifier)      | 电脑端系统通知                                          |
 | 43  |                                                                      |                                                         |
 | 44  |                                                                      |                                                         |
 | 45  |                                                                      |                                                         |
