@@ -22,6 +22,7 @@
 - [对象中 忽略属性值为空的属性](https://github.com/yu-style666/Blog/issues/7)
 - [双向数据绑定](https://github.com/yu-style666/Blog/issues/1)
 - [跨域传值方案](https://github.com/yu-style666/Blog/issues/35)
+- [探寻 JavaScript 精度问题[转载]](https://github.com/yu-style666/Blog/blob/master/JavaScript%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98.md)
 
 ## react
 
