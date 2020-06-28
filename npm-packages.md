@@ -46,6 +46,8 @@
 | 40  |                  [ejs](https://github.com/mde/ejs)                   | 嵌入式 `JavaScript` 模板                                |
 | 41  |              [busboy](https://github.com/mscdex/busboy)              | 用于`node.js` 的 HTML 表单数据的流解析器                |
 | 42  |      [node-notifier](https://github.com/mikaelbr/node-notifier)      | 电脑端系统通知                                          |
-| 43  |                                                                      |                                                         |
-| 44  |                                                                      |                                                         |
+| 43  |     [update-notifier](https://github.com/yeoman/update-notifier)     | 新版本通知通知(配置私有库的使用`@hspkg/update-notifier` |
+| 44  |    [node-fs-extra](https://github.com/jprichardson/node-fs-extra)    | `fs`对象的额外方法                                      |
 | 45  |                                                                      |                                                         |
+| 46  |                                                                      |                                                         |
+
