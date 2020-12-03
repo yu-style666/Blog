@@ -45,7 +45,6 @@
 - [npm 切换镜像](https://github.com/yu-style666/Blog/issues/27)
 - [nrm（npm registry manager：npm 注册表管理器）](https://github.com/yu-style666/Blog/issues/31)
 - [nvm（Node Version Manager：Node 版本管理器）](https://github.com/yu-style666/Blog/issues/30)
-- [简单三步同步你的 VSCode 用户配置](https://github.com/yu-style666/Blog/issues/26)
 - [vConsole 移动端调试](https://github.com/yu-style666/Blog/issues/15)
 - [Eslint 规则说明](https://github.com/yu-style666/Blog/issues/10)
 - [git 基本操作](https://github.com/yu-style666/Blog/issues/6)
@@ -59,4 +58,7 @@
 - [Mac 切换 bash、zsh 等 shell](https://github.com/yu-style666/Blog/issues/32)
 - [npm、yarn](https://github.com/yu-style666/Blog/issues/33)
 - [n（管理 Node 版本）](https://github.com/yu-style666/Blog/issues/34)
+- [简单三步同步你的 VSCode 用户配置](https://github.com/yu-style666/Blog/issues/26)
 - [在 vscode 中使用 eslint](https://github.com/yu-style666/Blog/blob/master/eslint-in-vscode.md)
+- [vscode 快捷键](https://github.com/yu-style666/Blog/issues/36)
+
