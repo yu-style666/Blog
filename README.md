@@ -60,5 +60,5 @@
 - [n（管理 Node 版本）](https://github.com/yu-style666/Blog/issues/34)
 - [简单三步同步你的 VSCode 用户配置](https://github.com/yu-style666/Blog/issues/26)
 - [在 vscode 中使用 eslint](https://github.com/yu-style666/Blog/blob/master/eslint-in-vscode.md)
-- [vscode 快捷键](https://github.com/yu-style666/Blog/issues/36)]
+- [vscode 快捷键](https://github.com/yu-style666/Blog/issues/36)
 - [一些 Linux 命令](https://github.com/yu-style666/Blog/issues/37)
